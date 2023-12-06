@@ -1,0 +1,65 @@
+[
+    {
+      "id": 1,
+      "title": "MANZANA",
+      "description": "Manzana fresca",
+      "price": 2.5,
+      "thumbnail": "https://th.bing.com/th/id/OIP.hVjhVt5EiigNSJr1QK93AAHaIJ?rs=1&pid=ImgDetMain",
+      "code": "FR001",
+      "stock": 50
+    },
+    {
+      "id": 2,
+      "title": "BANANA",
+      "description": "Banana ",
+      "price": 1.8,
+      "thumbnail": "banana.jpg",
+      "code": "FR002",
+      "stock": 40
+    },
+    {
+      "id": 3,
+      "title": "PERA",
+      "description": "Pera ",
+      "price": 3,
+      "thumbnail": "pera.jpg",
+      "code": "FR003",
+      "stock": 30
+    },
+    {
+      "id": 4,
+      "title": "SANDIA",
+      "description": "Sandía",
+      "price": 5,
+      "thumbnail": "sandia.jpg",
+      "code": "FR004",
+      "stock": 20
+    },
+    {
+      "id": 5,
+      "title": "KIWI",
+      "description": "Kiwi ",
+      "price": 2,
+      "thumbnail": "kiwi.jpg",
+      "code": "FR005",
+      "stock": 35
+    },
+    {
+      "id": 6,
+      "title": "FRUTILLA",
+      "description": "Frutilla dulce",
+      "price": 4,
+      "thumbnail": "frutilla.jpg",
+      "code": "FR006",
+      "stock": 25
+    },
+    {
+      "id": 7,
+      "title": "CEREZA",
+      "description": "Cereza fresca",
+      "price": 3.5,
+      "thumbnail": "cereza.jpg",
+      "code": "FR007",
+      "stock": 15
+    }
+]
